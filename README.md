@@ -1,3 +1,4 @@
+HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# State-Counter-Setcounter-
+This is my cool and beautiful project, which is not a calculator but looks like a calculator. It is a project for adding, subtracting, and deleting numbers with state, or the so-called counter and setcounter, made or designed in react.js. I hope you like it.
+67ba2c5d380de9b3219edcca512d5c74a373d2a6
